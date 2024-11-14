@@ -10,7 +10,7 @@ El proyecto busca ofrecer a la pastelería una plataforma para atraer más clien
 
 1. *Clona este repositorio:*
     bash
-    git clone https://github.com/JulioEAN/ProyectBakery.git
+    git clone https://github.com/jimloxc9912/Proyecto_final_yeyis_backery.git
     
 
 2. *Navega al directorio del proyecto:*
@@ -48,7 +48,7 @@ El diseño de la página se inspiró en los siguientes ejemplos:
 ## Otros Detalles
 
 ### GitHub Pages
-Este proyecto está desplegado en *GitHub Pages*. Puedes ver la página web en vivo en el siguiente enlace: [Ver Proyecto en GitHub Pages](https://JulioEAN.github.io/ProyectBakery).
+Este proyecto está desplegado en *GitHub Pages*. Puedes ver la página web en vivo en el siguiente enlace: [Ver Proyecto en GitHub Pages](https://jimloxc9912.github.io/Proyecto_final_yeyis_backery/).
 
 ### Notas Adicionales
 - Los cambios en el proyecto se gestionan mediante *Git*. Asegúrate de seguir las buenas prácticas de commit (mensajes claros y commits frecuentes) para mantener el proyecto organizado.
